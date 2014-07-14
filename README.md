@@ -1,4 +1,3 @@
 demo
 
-### Status
-[![Build Status](https://travis-ci.org/simkimsia/UtilityBehaviors.png)](https://travis-ci.org/realuserofgit/demo)
+[![Build Status](https://travis-ci.org/realuserofgit/demo.svg?branch=master)](https://travis-ci.org/realuserofgit/demo)
