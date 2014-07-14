@@ -7,6 +7,6 @@
         "grunt-contrib-jshint": "0.6.0"
     },
     "scripts": {
-        "test": "sudo grunt --verbose"
+        "test": "grunt --verbose"
     }
 }
